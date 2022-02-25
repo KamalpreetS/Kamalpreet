@@ -22,11 +22,11 @@
   
 
 <p><h2> Tools & languages </h2>
-<!--   <img src = "https://cdn.worldvectorlogo.com/logos/figma-1.svg" width = 32px> <br> -->
+ <img src = "https://cdn.worldvectorlogo.com/logos/figma-1.svg" width = 32px> <br> 
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"> 
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/html-1.svg"> 
-<img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/css-3.svg"> --->
+<img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/css-3.svg"> 
 
 <br>
 
