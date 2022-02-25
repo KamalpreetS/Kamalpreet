@@ -4,11 +4,11 @@
 
 ## I'm a Student, designer and an aspiring Full Stack Developer👩‍💻!!
 
-- 🔭 Currently working on **Some Personal Projects**
-- 🌱 Learning **React**
+- 🔭 Currently working as UI/UX Design Intern at **Purple Docs** & **Kalpas Innovations**
+- 🌱 Learning **Designing and Development**
 - 👯 Open to work as a **Designer/Developer/Engineer.**
 - 🥅 2022 Goals: Contribute more to **Open Source projects**
-- ⚡ Fun fact: **I code and click 📷**
+- ⚡ Fun fact: **I design, code and click 📷**
 
 
 
@@ -20,12 +20,12 @@
    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kamals9991@gmail.com" class="pics"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="36vh"></a>
   
 
-<p><h2> Tools & languages </h2>
+<<h2> Tools & languages </h2>
 <img src = "https://cdn.worldvectorlogo.com/logos/figma-1.svg" width = 32px>  
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"> 
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/html-1.svg"> 
-<img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/css-3.svg"> </p>
+<img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/css-3.svg">
 
 <br>
 
