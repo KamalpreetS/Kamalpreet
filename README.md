@@ -14,11 +14,11 @@
 <br />
 
 <h2> Connect with me :🤝<h2/>
-   <a href="https://www.linkedin.com/in/kamalpreet-singh-a489a2197/" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
-   <a href="https://github.com/KamalpreetS" class="pics"> <img src="pics/github.svg" height="36vh"></center></a>
+   <a href="https://www.linkedin.com/in/kamalpreet-singh-a489a2197/" class="pics"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="36vh">  </a>
+   <a href="https://github.com/KamalpreetS" class="pics"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="36vh"></center></a>
    <a href="https://dribble.com/Kamal9991" class="pics"><img src="https://cdn.worldvectorlogo.com/logos/dribbble-icon.svg" height="36vh">  </a>
    <a href="https://www.behance.net/kamalpreetsingh3" class="pics"><img src="https://cdn.worldvectorlogo.com/logos/behance.svg" height="36vh">  </a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kamals9991@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kamals9991@gmail.com" class="pics"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="36vh"></a>
   
 
 <p><h2> Tools & languages </h2>
