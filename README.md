@@ -23,11 +23,11 @@
 
 <p><h2> Tools & Languages </h2>
 <!--   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br> -->
-<a href= https://github.com/Goyal-Bharat?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/figma-1.svg"> </a>
-<a href= https://github.com/Goyal-Bharat?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"> </a>
-<a href= https://github.com/Goyal-Bharat?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"> </a>
-<a href= https://github.com/Goyal-Bharat?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/html-1.svg"> </a>
-<a href=https://github.com/Goyal-Bharat?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/css-3.svg"> </a>
+<a href= https://www.figma.com/?fuid= > <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/figma-1.svg"> </a>
+<a href= https://www.adobe.com/in/products/xd.html> <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"> </a>
+<a href= https://www.adobe.com/in/products/photoshop.html> <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"> </a>
+<a href= https://en.wikipedia.org/wiki/HTML5 > <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/html-1.svg"> </a>
+<a href= https://en.wikipedia.org/wiki/CSS> <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/css-3.svg"> </a>
 
 <br>
 
