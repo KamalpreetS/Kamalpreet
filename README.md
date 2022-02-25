@@ -10,8 +10,7 @@
 - 🥅 2022 Goals: Contribute more to **Open Source projects**
 - ⚡ Fun fact: **I code and click 📷**
 
-<img align="right" width="48%" src='https://github-readme-stats.vercel.app/api?username=Goyal-Bharat&hide=issues&count_private=true&show_icons=true&theme=calm'/>
-<br />
+
 
 <h2> Connect with me :🤝<h2/>
    <a href="https://www.linkedin.com/in/kamalpreet-singh-a489a2197/" class="pics"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="36vh">  </a>
@@ -22,11 +21,11 @@
   
 
 <p><h2> Tools & languages </h2>
- <img src = "https://cdn.worldvectorlogo.com/logos/figma-1.svg" width = 32px> <br> 
+<img src = "https://cdn.worldvectorlogo.com/logos/figma-1.svg" width = 32px> <br> 
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"> 
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
 <img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/html-1.svg"> 
-<img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/css-3.svg"> 
+<img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/css-3.svg"> </p>
 
 <br>
 
